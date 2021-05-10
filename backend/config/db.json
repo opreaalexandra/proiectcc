@@ -1,0 +1,6 @@
+{
+    "database": "cities",
+    "username": "weatherappadmin@mysql-weather-app-db",
+    "password": "123456Abc#",
+    "host": "mysql-weather-app-db.mysql.database.azure.com"
+}

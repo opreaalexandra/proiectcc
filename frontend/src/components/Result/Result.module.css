@@ -1,0 +1,23 @@
+.text {
+  color: white;
+}
+
+.locContainer .loc {
+  text-shadow: 3px 3px rgba(50, 50, 50, 0.5);
+}
+
+.locContainer .date {
+  text-shadow: 2px 2px rgba(50, 50, 50, 0.5);
+}
+
+.weatherContainer .temp {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 20px 40px;
+  text-shadow: 4px 7px rgba(50, 50, 50, 0.5);
+  box-shadow: 4px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}
+
+.weatherContainer .weather {
+  text-shadow: 3px 3px rgba(50, 50, 50, 0.5);
+}
