@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/83668337/117701638-27901500-b1d0-11eb-8018-8d9c05c9be60.png)
 
 # Descriere API
+URL https://weatherapp-frontend.azurewebsites.net
 Aplicatia utilizeaza doua API-uri de tip GET. 
 1.Primul API returneaza o lista de orase din baza de date( Bucharest, Mures, Clus, Pitesti etc). 
   ## Request URL https://weatherapp-backend.azurewebsites.net/api/cities
