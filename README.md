@@ -46,3 +46,5 @@ Utilizatorul selecteaza un orasu forntentul facee un request catre API-ul de vre
 2.Mediul de stocare in cloud
 
 
+
+
